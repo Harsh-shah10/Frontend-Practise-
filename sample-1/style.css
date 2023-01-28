@@ -9,3 +9,7 @@ h1 {
 *{
     background-color: rgba(55, 0, 255, 0.93);
 }
+
+button{
+    background-color: aliceblue;
+}
